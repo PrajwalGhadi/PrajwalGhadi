@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrajwalGhadi
 - 👀 I’m interested in Data Science & Machine Learning.
-- 🌱 I’m currently Completed Data Science and Machine Learning Course from TopMentor
+- 🌱 I’m currently Completed Master's in Data Science and Machine Learning Course from TopMentor
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Prajwal.ghadi28@gmail.com
 
